@@ -1,0 +1,46 @@
+
+https://api.openweathermap.org/data/2.5/weather?lat=24.8693606&lon=67.082216&appid=7d2b0196a91d8549991cb66ad004cd9a
+
+{
+    "coord": {
+        "lon": 67.0822,
+        "lat": 24.8686
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 306.21,
+        "feels_like": 310.15,
+        "temp_min": 306.21,
+        "temp_max": 306.21,
+        "pressure": 1002,
+        "humidity": 52
+    },
+    "visibility": 6000,
+    "wind": {
+        "speed": 9.77,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1654844534,
+    "sys": {
+        "type": 1,
+        "id": 7576,
+        "country": "PK",
+        "sunrise": 1654821704,
+        "sunset": 1654870836
+    },
+    "timezone": 18000,
+    "id": 1174872,
+    "name": "Karachi",
+    "cod": 200
+}
